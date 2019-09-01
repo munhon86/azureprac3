@@ -20,7 +20,7 @@ namespace simplePrac.test
         public void Test1()
         {
             string test = "Test";
-            Assert.Equal("HI", test);
+            Assert.Equal("Test", test);
         }
     }
 }
