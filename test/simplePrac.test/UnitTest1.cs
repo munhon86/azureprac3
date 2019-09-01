@@ -19,7 +19,8 @@ namespace simplePrac.test
         [Fact]
         public void Test1()
         {
-
+            string test = "Test";
+            Assert.Equal("Test", test);
         }
     }
 }
